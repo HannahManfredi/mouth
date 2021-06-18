@@ -1,6 +1,11 @@
 # mouth
 UI I created for the Mycroft Mark II open source hardware and software dev kit.
 
+## Related Projects
+[Mycroft Mark II Developer Kit Assembly](https://www.instructables.com/Mycroft-Mark-II-Developer-Kit-Assembly/)
+[Mark II Official Docs](https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/mark-ii)
+[DevKit Prototype Hardware Assembly](https://github.com/MycroftAI/hardware-mycroft-mark-II/tree/master/mark-II-Rpi-devkit)
+
 ## Table of Contents
 
 1. [Usage](#Usage)
